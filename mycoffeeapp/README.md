@@ -1,16 +1,14 @@
-# mycoffeeapp
+# Coffee App
+This includes the following features: 
 
-A new Flutter project.
+1. Sign Up using firesbase as backend
+2. Sign in using firesbase as backend
+3. Realtime updation using firestore database
+4. Material Design is used and the app has its own theme
 
-## Getting Started
+This app tells the user about whats the choice/preferred type of coffee the other users want. It also allows the user to change his own coffee settings.
 
-This project is a starting point for a Flutter application.
+Here is a demo of the app: 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
