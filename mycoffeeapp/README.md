@@ -10,5 +10,8 @@ This app tells the user about whats the choice/preferred type of coffee the othe
 
 Here is a demo of the app: 
 
+<p align="center">
+  <img width="200" height="350" src="https://github.com/anchal27sri/Flutter-Apps/blob/master/mycoffeeapp/project_images/demo.gif?raw=true">
+</p>
 
 
