@@ -40,7 +40,7 @@ The aim of this app is to make an area more safe and secure. By using this app, 
 
 ## Idea Credits
 ### Main: 
-I thank [Jakshat Desai]('https://github.com/Jakshat-Desai') for proposing the brilliant idea of making an app for people's safety. The idea was proposed by him while participating our team was participating in Smart India Hackathon.
+I thank [Jakshat Desai](https://github.com/Jakshat-Desai) for proposing the brilliant idea of making an app for people's safety. The idea was proposed by him while participating our team was participating in Smart India Hackathon.
 
 ### Design and Content: 
 I thank my team (Avrik). The team members other than me are: Jakshat Desai, Janmejay Sharma, Anirudh Yadav and Vedangi Mukudam(team leader).  
