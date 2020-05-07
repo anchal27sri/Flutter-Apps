@@ -33,6 +33,7 @@ The aim of this app is to make an area more safe and secure. By using this app, 
 
 ## Here is a demonstration of the app
 
+
 <p align="center">
   <img width="200" height="350" src="https://github.com/anchal27sri/Flutter-Apps/blob/master/rakshak/project_images/picture_compress.gif?raw=true">
 </p>
@@ -42,4 +43,11 @@ The aim of this app is to make an area more safe and secure. By using this app, 
 I thank [Jakshat Desai]('https://github.com/Jakshat-Desai') for proposing the briliiant idea of making an app for people's safety. The idea was proposed by him while participating our team was participating in Smart India Hackathon.
 
 ### Design and Content: 
-I thank my team (Avrik). The team members other than me are: Jakshat Desai, Janmejay Sharma, Vedangi Mukudam and Anirudh Yadav.  
+I thank my team (Avrik). The team members other than me are: Jakshat Desai, Janmejay Sharma, Anirudh Yadav and Vedangi Mukudam(team leader).  
+
+## TODOs
+1. Backend for SOS button
+2. Pages for draggable slide window
+3. Notification alerts
+5. More efficient database management
+6. Police Portal development
